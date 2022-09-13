@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **servezynskimarcos1@gmail.com**
 
+- 🔦 LinkedIn https://www.linkedin.com/in/marcos-servezynski/
+
 <p align="left">Connect with me:</p>
 <p align="left">
   <a href="https://linkedin.com/in/marcos-servezynski" target="blank"
