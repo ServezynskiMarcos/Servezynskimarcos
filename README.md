@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Marcos Servezynski</h1>
 <h3 align="center">A passionate Front-End Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Sass, Frameworks front-end** 
+- ⚡ I’m **Full-Stack Developer** 
+
+- 🌱 I’m currently learning **Sass, Frameworks front-end**
 
 - 👯 I’m looking to collaborate on [B2B Commodities](https://dev-commodities.vercel.app) 
 
