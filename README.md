@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Marcos Servezynski, full-stack developer 👨‍💻 🚀</div>  
   
-
+<a href="https://portfolio-servezynski.vercel.app" target="_blank">My projects</a>
 - 🔥 [My projects](https://portfolio-servezynski.vercel.app)  
   
 
