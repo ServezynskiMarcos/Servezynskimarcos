@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/oLSCZlWHwpkAAAAC/hello-lokish.gif" align="center" style="width: 1000px" />
+<img src="https://media.tenor.com/oLSCZlWHwpkAAAAC/hello-lokish.gif" align="center" style="width: 1200px" />
 </div>  
   
 
@@ -95,5 +95,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
